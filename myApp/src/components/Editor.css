@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+}
+
+.input{
+    height: 85vh;
+    width: 45vw;
+}
+
+.output{
+    height: 85vh;
+    width: 45vw;
+}
+
+.input-text{
+    height: 90%;
+    width: 90%;
+    background-color: transparent;
+    border: rgb(66, 65, 65) 2px solid;
+}
+
+.output-text{
+    height: 90%;
+    width: 90%;
+    background-color: rgb(45, 45, 45);
+    border: rgb(66, 65, 65) 2px solid;
+    color: white;
+}
